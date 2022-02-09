@@ -1,4 +1,4 @@
-# Implementing CI/CD Workflow with GitHub Actions
+## Implementing CI/CD Workflow with GitHub Actions
 
 A new Flutter project.
 
