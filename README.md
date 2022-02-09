@@ -1,4 +1,4 @@
-# flutter_cicd_using_github_actions
+# Implementing CI/CD Workflow with GitHub Actions
 
 A new Flutter project.
 
