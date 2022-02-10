@@ -21,7 +21,7 @@ jobs:
       - run: flutter test
 
 
-build_ios:
+  build_ios:
     name: Build Flutter (iOS)
     needs: [flutter_test]
     runs-on: macos-latest
