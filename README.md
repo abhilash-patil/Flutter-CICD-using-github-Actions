@@ -13,7 +13,7 @@
 ### Sep 3 :
    Create workflow and write rules on what scenarios that workflow should run.
    read ``` ci.yml ``` file for more details.
-```dart
+```yaml
    name: CI
 # This workflow is triggered on pull request to the repository.
 on:

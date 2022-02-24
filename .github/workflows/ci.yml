@@ -2,8 +2,9 @@ name: CI
 # This workflow is triggered on pull request to the repository.
 on:
   pull_request:
+  # On which branch this pull request will affect.
     branches:
-      - main
+      - main  
 
 jobs:
 # This job will run on ubuntu virtual machine
