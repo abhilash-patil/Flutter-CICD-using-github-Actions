@@ -1,4 +1,5 @@
 ## Implementing CI/CD Workflow with GitHub Actions
+A simple demonstration about how to implement CICD with flutter and github actions.
 ### What is Continuos Integration (CI)
    Committing early and often and those committs will be tested and getting feedback of those committs that they have problems or not.
 
